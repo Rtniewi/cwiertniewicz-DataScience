@@ -1,0 +1,191 @@
+[
+ {
+   "year": 1990,
+   "underfive": 93.4,
+   "infant": 64.8,
+   "neonatal": 36.8,
+   "abovefive": 122.6
+ },
+ {
+   "year": 1991,
+   "underfive": 92.1,
+   "infant": 63.9,
+   "neonatal": 36.3,
+   "abovefive": 120.9
+ },
+ {
+   "year": 1992,
+   "underfive": 90.9,
+   "infant": 63.1,
+   "neonatal": 35.9,
+   "abovefive": 119.3
+ },
+ {
+   "year": 1993,
+   "underfive": 89.7,
+   "infant": 62.3,
+   "neonatal": 35.4,
+   "abovefive": 117.6
+ },
+ {
+   "year": 1994,
+   "underfive": 88.7,
+   "infant": 61.4,
+   "neonatal": 28,
+   "abovefive": 116.8
+ },
+ {
+   "year": 1995,
+   "underfive": 87.3,
+   "infant": 60.5,
+   "neonatal": 34.4,
+   "abovefive": 114.8
+ },
+ {
+   "year": 1996,
+   "underfive": 85.6,
+   "infant": 59.4,
+   "neonatal": 33.7,
+   "abovefive": 112.3
+ },
+ {
+   "year": 1997,
+   "underfive": 70.6,
+   "infant": 58.2,
+   "neonatal": 33.1,
+   "abovefive": 110.2
+ },
+ {
+   "year": 1998,
+   "underfive": 82.1,
+   "infant": 56.9,
+   "neonatal": 32.3,
+   "abovefive": 107.9
+ },
+ {
+   "year": 1999,
+   "underfive": 79.9,
+   "infant": 55.4,
+   "neonatal": 31.5,
+   "abovefive": 105
+ },
+ {
+   "year": 2000,
+   "underfive": 77.5,
+   "infant": 53.9,
+   "neonatal": 30.7,
+   "abovefive": 101.5
+ },
+ {
+   "year": 2001,
+   "underfive": 74.8,
+   "infant": 52.1,
+   "neonatal": 29.8,
+   "abovefive": 97.9
+ },
+ {
+   "year": 2002,
+   "underfive": 72,
+   "infant": 50.4,
+   "neonatal": 28.9,
+   "abovefive": 93.7
+ },
+ {
+   "year": 2003,
+   "underfive": 69.2,
+   "infant": 48.6,
+   "neonatal": 28,
+   "abovefive": 89.8
+ },
+ {
+   "year": 2004,
+   "underfive": 66.7,
+   "infant": 46.9,
+   "neonatal": 28,
+   "abovefive": 86.5
+ },
+ {
+   "year": 2005,
+   "underfive": 70.6,
+   "infant": 45.1,
+   "neonatal": 26.1,
+   "abovefive": 82.5
+ },
+ {
+   "year": 2006,
+   "underfive": 61.1,
+   "infant": 43.4,
+   "neonatal": 25.3,
+   "abovefive": 78.4
+ },
+ {
+   "year": 2007,
+   "underfive": 58.5,
+   "infant": 50.4,
+   "neonatal": 24.4,
+   "abovefive": 74.2
+ },
+ {
+   "year": 2008,
+   "underfive": 56.2,
+   "infant": 40.3,
+   "neonatal": 23.6,
+   "abovefive": 71.3
+ },
+ {
+   "year": 2009,
+   "underfive": 53.7,
+   "infant": 38.8,
+   "neonatal": 22.9,
+   "abovefive": 67.6
+ },
+ {
+   "year": 2010,
+   "underfive": 70.6,
+   "infant": 37.4,
+   "neonatal": 22.2,
+   "abovefive": 64.5
+ },
+ {
+   "year": 2011,
+   "underfive": 49.3,
+   "infant": 36,
+   "neonatal": 21.5,
+   "abovefive": 61.4
+ },
+ {
+   "year": 2012,
+   "underfive": 47.3,
+   "infant": 34.7,
+   "neonatal": 20.8,
+   "abovefive": 58.6
+ },
+ {
+   "year": 2013,
+   "underfive": 45.5,
+   "infant": 33.6,
+   "neonatal": 20.2,
+   "abovefive": 55.9
+ },
+ {
+   "year": 2014,
+   "underfive": 43.7,
+   "infant": 50.4,
+   "neonatal": 19.6,
+   "abovefive": 53.2
+ },
+ {
+   "year": 2015,
+   "underfive": 42.2,
+   "infant": 31.4,
+   "neonatal": 19.1,
+   "abovefive": 51.5
+ },
+ {
+   "year": 2016,
+   "underfive": 40.8,
+   "infant": 30.5,
+   "neonatal": 18.6,
+   "abovefive": 49.5
+ }
+]
